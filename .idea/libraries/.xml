@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="苏晓焜">
+    <CLASSES>
+      <root url="file://$USER_HOME$" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/jdbc_jar包/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/jdbc_jar包/commons-collections-3.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/jdbc_jar包/commons-lang-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/jdbc_jar包/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/jdbc_jar包/ezmorph-1.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/jdbc_jar包/json-lib-2.2.3-jdk15.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/jdbc_jar包/mysql-connector-java-5.1.41.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Desktop/新建文件夹/jdbc_jar包/commons-beanutils-1.7.0.jar!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Desktop/新建文件夹/jdbc_jar包/commons-collections-3.2.jar!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Desktop/新建文件夹/jdbc_jar包/commons-lang-2.4.jar!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Desktop/新建文件夹/jdbc_jar包/commons-logging-1.0.4.jar!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Desktop/新建文件夹/jdbc_jar包/ezmorph-1.0.3.jar!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Desktop/新建文件夹/jdbc_jar包/json-lib-2.2.3-jdk15.jar!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Desktop/新建文件夹/jdbc_jar包/mysql-connector-java-5.1.41.jar!/" recursive="false" />
+  </library>
+</component>
